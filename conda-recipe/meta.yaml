@@ -26,7 +26,7 @@ requirements:
     - python 2.7*|>=3.5
     - python {{PY_VER}}*
     - numpy
-    - itk 4.11*
+    - itk
     - jpeg
     - libtiff
     - hdf5
@@ -36,7 +36,7 @@ requirements:
     - libgcc # [linux]
     - python {{PY_VER}}*
     - numpy
-    - itk 4.11*
+    - itk
     - jpeg
     - libtiff
     - libpng >=1.6.28
