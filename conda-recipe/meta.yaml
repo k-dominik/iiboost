@@ -29,6 +29,7 @@ requirements:
     - itk
     - jpeg
     - libtiff
+    - libitk
     - hdf5
     - libpng 1.6.28
 
@@ -41,6 +42,7 @@ requirements:
     - libtiff
     - libpng >=1.6.28
     - hdf5
+    - libitk
 
 test:
   imports:
