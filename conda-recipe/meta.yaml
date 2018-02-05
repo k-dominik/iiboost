@@ -25,7 +25,7 @@ requirements:
     - gcc 4.8.5 # [linux]
     - python 2.7*|>=3.5
     - python {{PY_VER}}*
-    - numpy
+    - numpy {{NPY_VER}}*
     - itk
     - jpeg
     - libtiff
@@ -36,7 +36,7 @@ requirements:
   run:
     - libgcc # [linux]
     - python {{PY_VER}}*
-    - numpy
+    - numpy {{NPY_VER}}*
     - itk
     - jpeg
     - libtiff
